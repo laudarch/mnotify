@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "name": "mNotify SMS",
+    "description": "Send SMS notifications via mNotify.net!",
+    "authors": [
+        {
+            "name": "509Host DotCom",
+            "url": "http://509host.com"
+        }
+    ],
+    "types": [
+        "sms"
+    ]
+}

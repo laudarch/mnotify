@@ -1,0 +1,9 @@
+{
+    "name": "blesta/mnotify",
+    "description": "mNotify SMS",
+    "license": "proprietary",
+    "type": "blesta-messenger",
+    "require": {
+        "blesta/composer-installer": "~1.0"
+    }
+}
